@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4abf5e82d10f805546d59d779c757ea15f9b354e">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfb04402732a753750d36174527a97cf3e80d6ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_b9308d46defca81bb3f2e94bfa610906e6b57385/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cde8d2def650b6d6195288791c924aad8ff50cb">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b94a53aa8c82075de3e9a911b85a4012b2a0a63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="83e7f628e6fc67024b592fb3eae347d1c9d5c472">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c4d523493fbaaa8b0fa97cc99ee8a4b8671c0fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_abb5c7c0b8dff8042f73641a5dac5c6b261e21ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_c71520457615573bca3a9d852bba43a84e51d0d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_1757df29a80c57510e1f79f92ff8ede993d9cfa3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_48004197440162a6d0de88852e2c14431876390a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_de0c223bc477c10ab2be64472cfbf7b6c2b1f7a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_c79ae6be298668758e8db9821418d6cb18234ac0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_ffb69f67cff61f0ab404cb87f40c7f7c2c4b3e0c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5e7e60035bb1e738f99d94ae54b5908a6918c58">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7d2929e84d5aab3a1ce57338090504b3a94cdf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_730c4545ae22a4a15025ef0827ec503b0a0f1b12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/jeffrey/Documents/Git/CrimeIntent_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e393026f63641912954773f632575d23ddfcc54c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/jeffrey/Desktop/CrimeIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_8847da59d458a01ce9765e4a4d3c2701321903e3/classes.dex" />
+    </item>
+
+</items>
